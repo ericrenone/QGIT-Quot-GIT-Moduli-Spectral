@@ -1,1 +1,1 @@
-# -QGIT-Quot-GIT-Moduli-Spectral
+# QGIT-Quot-GIT-Moduli-Spectral
